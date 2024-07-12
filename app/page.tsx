@@ -1,3 +1,4 @@
+// app/page.tsx
 import Image from "next/image";
 
 export default function Home() {
@@ -39,7 +40,7 @@ export default function Home() {
         />
       </div>
 
-      <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-1 lg:text-left">
+      <div className="mt-2 mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-1 lg:text-left">
   <p className="m-0 max-w-full text-lg opacity-50">
     ein Webentwickler mit einer Leidenschaft für die Erstellung sauberer und dynamischer Websites. In den letzten 5 Jahren habe ich vielfältige Erfahrungen in der Webentwicklung gesammelt. Ich habe umfangreiche Erfahrung in der Kommunikation mit Kunden per E-Mail und der Umsetzung ihrer Anforderungen anhand von PDFs oder Figma-Modellen. Zudem war ich Webmaster für die Contentstack-Plattform, habe Unternehmenswebsites auf Basis von Drupal verwaltet und Kundenanforderungen stets professionell und freundlich umgesetzt. Ich habe mit Kunden aus Deutschland, Österreich und der Schweiz zusammengearbeitet und kommuniziert und war erfolgreich in der Umsetzung dessen, was die Kunden in unseren Gesprächen sowie in E-Mails kommuniziert haben. Ich spreche fließend Deutsch und Englisch auf nahezu muttersprachlichem Niveau, was mir hilft, effektiv mit internationalen Kunden zu kommunizieren. Ich werde für meine aufrichtige Leidenschaft geschätzt, zu helfen und zu einer vereinteren Welt beizutragen. Lass uns gemeinsam zusammenarbeiten!
   </p>
@@ -47,7 +48,8 @@ export default function Home() {
 
 
 
-      <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
+
+      <div className="mt-10 mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <a
           href="https://redondo-profile-nxot.vercel.app/"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
@@ -165,6 +167,38 @@ export default function Home() {
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
             Pink Menu Buttons built using HTML and CSS Flexible Box Layout.
           </p>
+        </a>
+      </div>
+
+      <div className="mt-20 mb-32 grid grid-cols-1 gap-8 text-center lg:grid-cols-3 lg:gap-16">
+        <a
+          href="https://www.linkedin.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="group flex flex-col items-center p-6 bg-white rounded-lg shadow-md transition-transform transform hover:scale-105"
+        >
+          <i className="fab fa-linkedin text-4xl mb-4 text-blue-600"></i>
+          <p className="text-center text-lg font-semibold">LinkedIn</p>
+        </a>
+
+        <a
+          href="https://www.xing.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="group flex flex-col items-center p-6 bg-white rounded-lg shadow-md transition-transform transform hover:scale-105"
+        >
+          <i className="fab fa-xing text-4xl mb-4 text-green-600"></i>
+          <p className="text-center text-lg font-semibold">Xing</p>
+        </a>
+
+        <a
+          href="https://www.github.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="group flex flex-col items-center p-6 bg-white rounded-lg shadow-md transition-transform transform hover:scale-105"
+        >
+          <i className="fab fa-github text-4xl mb-4 text-gray-800"></i>
+          <p className="text-center text-lg font-semibold">GitHub</p>
         </a>
       </div>
     </main>
