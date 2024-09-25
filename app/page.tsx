@@ -11,24 +11,6 @@ export default function Home() {
           Hallo! Ich bin&nbsp;
           <code className="font-mono font-bold">Rodrigo</code>,
         </p>
-        <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
-          <a
-            className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{" "}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className="dark:invert"
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
       </div>
 
       <div className="relative z-[-1] flex place-items-left before:absolute before:h-[300px] before:w-full before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-full after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 sm:before:w-[480px] sm:after:w-[240px] before:lg:h-[360px]">
@@ -43,8 +25,17 @@ export default function Home() {
       </div>
 
       <div className="mt-2 mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-1 lg:text-left">
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+        Ich bin ein erfahrener Web Content Manager mit einer Leidenschaft für die Erstellung und Optimierung von Webinhalten. In den letzten Jahren habe ich vielfältige Erfahrungen im Web Content Management gesammelt, insbesondere mit Content-Management-Systemen wie Drupal, ContentStack und grundlegenden Kenntnissen in TYPO3. Mein Fokus liegt auf der SEO-Optimierung und der Entwicklung von Content-Strategien, die sowohl suchmaschinenfreundlich als auch benutzerorientiert sind.
+        </p>
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+        Ich habe umfangreiche Erfahrung in der Kommunikation mit Kunden per E-Mail und setze ihre Anforderungen basierend auf bereitgestellten Materialien wie PDFs oder Figma-Designs effizient um. Als Webmaster für die ContentStack-Plattform habe ich Unternehmenswebsites verwaltet und Kundenwünsche stets professionell und freundlich umgesetzt.
+        </p>
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+        Die Zusammenarbeit und Kommunikation mit Kunden aus Deutschland, Österreich und der Schweiz hat meine Fähigkeit gestärkt, effektiv in internationalen Teams zu arbeiten. Ich spreche fließend Deutsch, Englisch auf nahezu muttersprachlichem Niveau und Portugiesisch als Muttersprache, was mir hilft, in multikulturellen Umgebungen erfolgreich zu sein.
+        </p>
         <p className="m-0 max-w-full text-lg opacity-50">
-          ein Webentwickler mit einer Leidenschaft für die Erstellung sauberer und dynamischer Websites. In den letzten 5 Jahren habe ich vielfältige Erfahrungen in der Webentwicklung gesammelt. Ich habe umfangreiche Erfahrung in der Kommunikation mit Kunden per E-Mail und der Umsetzung ihrer Anforderungen anhand von PDFs oder Figma-Modellen. Zudem war ich Webmaster für die Contentstack-Plattform, habe Unternehmenswebsites auf Basis von Drupal verwaltet und Kundenanforderungen stets professionell und freundlich umgesetzt. Ich habe mit Kunden aus Deutschland, Österreich und der Schweiz zusammengearbeitet und kommuniziert und war erfolgreich in der Umsetzung dessen, was die Kunden in unseren Gesprächen sowie in E-Mails kommuniziert haben. Ich spreche fließend Deutsch und Englisch auf nahezu muttersprachlichem Niveau, was mir hilft, effektiv mit internationalen Kunden zu kommunizieren. Ich werde für meine aufrichtige Leidenschaft geschätzt, zu helfen und zu einer vereinteren Welt beizutragen. Lass uns gemeinsam zusammenarbeiten!
+        Ich werde für meine aufrichtige Leidenschaft geschätzt, qualitativ hochwertige Webinhalte zu erstellen und zu einer verbesserten digitalen Präsenz beizutragen. Lass uns gemeinsam an Ihrem nächsten Projekt arbeiten!
         </p>
       </div>
 
