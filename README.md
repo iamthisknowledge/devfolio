@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Rodrigo Teixeira – Web Content Manager Portfolio
 
-## Getting Started
+## **Über mich**
 
-First, run the development server:
+Als erfahrener Web Content Manager mit Schwerpunkt auf **SEO-Optimierung** und **Content-Strategie** bringe ich mehrere Jahre Erfahrung in der Verwaltung und Optimierung von Unternehmenswebsites mit. Ich bin leidenschaftlich daran interessiert, hochwertige Webinhalte zu erstellen, die sowohl suchmaschinenoptimiert als auch benutzerfreundlich sind.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Rolle / Role**: Web Content Manager
+- **Erfahrung / Experience**: Web Content Management, SEO, grundlegende Webentwicklung
+- **Sprachen / Languages**: Deutsch (fließend), Englisch (muttersprachlich), Portugiesisch (Muttersprache)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## **Erfahrung & Fähigkeiten**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Content-Management-Systeme (CMS)**: Umfangreiche Erfahrung mit verschiedenen CMS-Plattformen wie **Drupal**, **ContentStack** und grundlegende Kenntnisse in **TYPO3** für die effiziente Verwaltung von Inhalten auf internationalen Websites.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **SEO & Datenanalyse**: Erfolgreiche Implementierung von SEO-Strategien zur Steigerung des Website-Traffics und der organischen Reichweite. Vertraut mit Tools wie **Google Analytics**, **Google Search Console**, grundlegende Erfahrung mit **Matomo** und anderen Analysetools.
 
-## Learn More
+- **Grundlegende Webentwicklung / Basic Web Development**: Kenntnisse in **HTML**, **CSS** und grundlegende Erfahrung mit **JavaScript**. Fähigkeit, einfache Webanpassungen vorzunehmen und mit Entwicklungsteams zusammenzuarbeiten.
 
-To learn more about Next.js, take a look at the following resources:
+- **Design & User Experience**: Verständnis für nutzerzentriertes **UX/UI-Design**, um die Benutzerfreundlichkeit und Conversion Rates zu verbessern.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Projektmanagement & Kommunikation**: Effektive Zusammenarbeit mit internationalen Teams und verschiedenen Abteilungen, um Projekte termingerecht und effizient umzusetzen.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## **Projekte**
 
-## Deploy on Vercel
+1. **Verwaltung und Optimierung von Unternehmenswebsites**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   Verantwortung für die Aktualisierung und Pflege von Corporate Websites in verschiedenen Märkten. Umsetzung von Content-Strategien inklusive **SEO-Optimierung** und Performance-Steigerung.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+2. **Entwicklung von SEO-Strategien**
+
+   Implementierung von SEO-Maßnahmen zur Verbesserung des organischen Traffics und der Sichtbarkeit in Suchmaschinen. Nutzung von Datenanalysen zur kontinuierlichen Optimierung.
+
+3. **Portfolio-Website**
+
+   Entwicklung einer persönlichen Portfolio-Website mit **Next.js**, unter Anwendung grundlegender Webentwicklungstechniken und Fokus auf **SEO-Aspekte** sowie **nutzerzentriertes Design**.
+
+## **Was ich Ihrem Team bringe**
+
+- **Strategisches Denken**: Entwicklung kreativer und datenbasierter Content-Strategien zur Unterstützung von Geschäftsziele.
+
+- **Technische Kompetenz**: Erfahrung in der Verwaltung von Inhalten mit verschiedenen CMS-Systemen und die Fähigkeit, technische Herausforderungen zu meistern.
+
+- **SEO-Expertise**: Fundiertes Verständnis von SEO-Praktiken zur Maximierung der Online-Sichtbarkeit und Reichweite.
+
+- **Effektive Kommunikation**: Erfahrung in der Zusammenarbeit mit internationalen Teams und verschiedenen Stakeholdern.
+
+## **Lass uns in Kontakt treten! **
+
+Ich freue mich darauf, meine Fähigkeiten und Erfahrungen in Ihr Team einzubringen und die digitale Präsenz Ihres Unternehmens zu stärken. Kontaktieren Sie mich gerne für ein Gespräch!
+
+I look forward to bringing my skills and experience to your team and enhancing your company's digital presence. Feel free to reach out for a conversation!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rodrigo-teixeira-b8b889302/)
+- 💼 [Devfolio](https://devfolio-iam.vercel.app/)
+
+---
+
+**Vielen Dank für Ihr Interesse an meinem Portfolio. Ich freue mich darauf, von Ihnen zu hören!**
