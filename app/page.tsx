@@ -22,8 +22,8 @@ export default function Home() {
           className="relative rounded-full"
           src="/profile.jpg"
           alt="Rodrigo Logo"
-          width={360}
-          height={360}
+          width={250}
+          height={250}
           priority
         />
       </div>
