@@ -1,7 +1,11 @@
 // app/page.tsx
 import Image from "next/image";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLinkedin, faXing, faGithub } from "@fortawesome/free-brands-svg-icons";
+import {
+  faLinkedin,
+  faXing,
+  faGithub,
+} from "@fortawesome/free-brands-svg-icons";
 
 export default function Home() {
   return (
@@ -26,42 +30,115 @@ export default function Home() {
 
       <div className="mt-2 mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-1 lg:text-left">
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        I am a professional who strives for a vision with integrity and loves to be led upwards in a working environment. Over the past four years, I have worked as a Web Content Manager Associate for a marketing agency in Germany—two years in the office and two years remotely as a contractor.
+          I am a professional who strives for a vision with integrity and loves
+          to be led upwards in a working environment. Over the past four years,
+          I have worked as a Web Content Manager Associate for a marketing
+          agency in Germany—two years in the office and two years remotely as a
+          contractor.
         </p>
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        During this time, I developed a deep interest and strong desire to learn everything related to SEO, which has led me to pivot my career toward entry-level SEO roles. Before this, I worked as a dishwasher for one year. My journey from dishwasher to sales specialist in customer service and then to Web Content Manager Associate showcases my eagerness to learn and grow.
+          During this time, I developed a deep interest and strong desire to
+          learn everything related to SEO, which has led me to pivot my career
+          toward entry-level SEO roles. Before this, I worked as a dishwasher
+          for one year. My journey from dishwasher to sales specialist in
+          customer service and then to Web Content Manager Associate showcases
+          my eagerness to learn and grow.
         </p>
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        My passion is delivering fresh and genuine content that provides users with direct solutions to their problems. When approaching content strategy, I believe in having a concrete goal—generating leads, driving sales, or increasing brand awareness. Understanding the audience is crucial: I delve into what they're searching for, their interests, and the problems they need to solve. This involves thorough keyword research using tools like Google Search Console and Bing Webmaster Tools to align our content with their search intent. Creating fresh, high-quality content is at the heart of what I do. I focus on producing unique, engaging material that stands out and resonates deeply with the audience. I ensure the content is factually accurate, well-written, and comprehensive, providing real value and directly addressing their needs.
+          My passion is delivering fresh and genuine content that provides users
+          with direct solutions to their problems. When approaching content
+          strategy, I believe in having a concrete goal—generating leads,
+          driving sales, or increasing brand awareness. Understanding the
+          audience is crucial: I delve into what they&apos;re searching for,
+          their interests, and the problems they need to solve. This involves
+          thorough keyword research using tools like Google Search Console and
+          Bing Webmaster Tools to align our content with their search intent.
+          Creating fresh, high-quality content is at the heart of what I do. I
+          focus on producing unique, engaging material that stands out and
+          resonates deeply with the audience. I ensure the content is factually
+          accurate, well-written, and comprehensive, providing real value and
+          directly addressing their needs.
         </p>
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        For direct SEO optimization, I integrate keywords naturally within the content, avoiding keyword stuffing and utilizing internal linking and image optimization. I also ensure the website is mobile-friendly and craft effective titles and meta descriptions. Promoting content through email marketing, social media, and partnerships with industry websites helps reach a wider audience.        </p>
-        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        Recognizing that SEO is an ongoing process, I continuously track performance through analytics and adjust strategies as needed. By implementing these strategies on a project focused on "Quick and Healthy Recipes for Working Families," we targeted long-tail keywords like "healthy 30-minute dinners" and "easy, quick vegetarian recipes." This led to a significant increase in organic traffic—a 35% boost over six months—and improved user engagement metrics.
+          For direct SEO optimization, I integrate keywords naturally within the
+          content, avoiding keyword stuffing and utilizing internal linking and
+          image optimization. I also ensure the website is mobile-friendly and
+          craft effective titles and meta descriptions. Promoting content
+          through email marketing, social media, and partnerships with industry
+          websites helps reach a wider audience.
         </p>
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        However, only some strategies work as expected. In one instance, while working indirectly for a pharmaceutical company, we launched a product similar to a competitor's. Despite our efforts, we needed to generate more leads initially because the competitor had launched first. To pivot, I recommended a complete analysis to understand what our audience was searching for and how we could differentiate our product by highlighting unique benefits the competitor didn't offer. We collaborated with reputable industry media outlets to build trust and credibility. After adjusting our approach, we saw a 15% increase in leads within two months. This experience taught me the importance of differentiation, understanding competitors, and building credibility through trusted channels.
+          Recognizing that SEO is an ongoing process, I continuously track
+          performance through analytics and adjust strategies as needed. By
+          implementing these strategies on a project focused on &quot;Quick and
+          Healthy Recipes for Working Families,&quot; we targeted long-tail
+          keywords like &quot;healthy 30-minute dinners&quot; and &quot;easy,
+          quick vegetarian recipes.&quot; This led to a significant increase in
+          organic traffic—a 35% boost over six months—and improved user
+          engagement metrics.
         </p>
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        To increase efficiency and performance in content management, I integrate AI tools and automation into my workflow. I identify terms based on the target market and our solutions for keyword research. I use AI tools like ChatGPT to brainstorm and outline topics, then craft fresh, unique content in a native-level style. Afterward, I use Grammarly to refine the text, ensuring it's polished and error-free. This approach optimizes content for both SEO and readability, focusing on delivering quality material.
+          However, only some strategies work as expected. In one instance, while
+          working indirectly for a pharmaceutical company, we launched a product
+          similar to a competitor&apos;s. Despite our efforts, we needed to
+          generate more leads initially because the competitor had launched
+          first. To pivot, I recommended a complete analysis to understand what
+          our audience was searching for and how we could differentiate our
+          product by highlighting unique benefits the competitor didn&apos;t
+          offer. We collaborated with reputable industry media outlets to build
+          trust and credibility. After adjusting our approach, we saw a 15%
+          increase in leads within two months. This experience taught me the
+          importance of differentiation, understanding competitors, and building
+          credibility through trusted channels.
         </p>
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        I've also been involved in executing strategies for cross-purpose marketing and educational opportunities. In my previous role, I assisted in optimizing content and SEO strategies for webinars and educational materials scheduled for release. I focused on ensuring that valuable insights were accessible online to our target audience, primarily professionals seeking to enhance their knowledge and skills. By optimizing the content and promoting it through various channels, we aimed to raise brand awareness and make valuable information accessible to a broader audience. 
+          To increase efficiency and performance in content management, I
+          integrate AI tools and automation into my workflow. I identify terms
+          based on the target market and our solutions for keyword research. I
+          use AI tools like ChatGPT to brainstorm and outline topics, then craft
+          fresh, unique content in a native-level style. Afterward, I use
+          Grammarly to refine the text, ensuring it&apos;s polished and
+          error-free. This approach optimizes content for both SEO and
+          readability, focusing on delivering quality material.
         </p>
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        Professional clients, including stakeholders, love to communicate with me because I am compassionate, can put myself in others' shoes, and deliver results. More than just working for them, I see it all as a beautifully crafted professional experience where trust between us is a top priority. Their desires, whether from PDF or Figma files, can be optimized to achieve perfect placement in search engines.
+          I&apos;ve also been involved in executing strategies for cross-purpose
+          marketing and educational opportunities. In my previous role, I
+          assisted in optimizing content and SEO strategies for webinars and
+          educational materials scheduled for release. I focused on ensuring
+          that valuable insights were accessible online to our target audience,
+          primarily professionals seeking to enhance their knowledge and skills.
+          By optimizing the content and promoting it through various channels,
+          we aimed to raise brand awareness and make valuable information
+          accessible to a broader audience.
         </p>
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        My professional history reflects a person who wishes to have long-term professional partnerships as a contractor if you're looking for the same, hi to you!
+          Professional clients, including stakeholders, love to communicate with
+          me because I am compassionate, can put myself in others&apos; shoes,
+          and deliver results. More than just working for them, I see it all as
+          a beautifully crafted professional experience where trust between us
+          is a top priority. Their desires, whether from PDF or Figma files, can
+          be optimized to achieve perfect placement in search engines.
         </p>
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        I write in American English and have a near-native level of comprehension, including cultural nuances.
+          My professional history reflects a person who wishes to have long-term
+          professional partnerships as a contractor if you&apos;re looking for
+          the same, hi to you!
         </p>
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        I can support marketing campaigns with engaging, expert content and best practices that align with Googlebot guidelines. I can integrate and track trending keywords in articles and content to keep organic SEO at the top. I excel at optimizing blog posts and crafting website copy. I'm proficient in supporting the execution of digital strategies and improving exposure.
+          I write in American English and have a near-native level of
+          comprehension, including cultural nuances.
         </p>
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        I am certified in Google Digital Marketing & E-commerce.
+          I can support marketing campaigns with engaging, expert content and
+          best practices that align with Googlebot guidelines. I can integrate
+          and track trending keywords in articles and content to keep organic
+          SEO at the top. I excel at optimizing blog posts and crafting website
+          copy. I&apos;m proficient in supporting the execution of digital strategies
+          and improving exposure.
+        </p>
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+          I am certified in Google Digital Marketing & E-commerce.
         </p>
       </div>
 
@@ -193,8 +270,13 @@ export default function Home() {
           rel="noopener noreferrer"
           className="group flex flex-col items-center p-6 bg-white rounded-lg shadow-md transition-transform transform hover:scale-105"
         >
-          <FontAwesomeIcon icon={faLinkedin} className="text-4xl mb-4 text-blue-600" />
-          <p className="text-center text-lg font-semibold text-blue-600">LinkedIn</p>
+          <FontAwesomeIcon
+            icon={faLinkedin}
+            className="text-4xl mb-4 text-blue-600"
+          />
+          <p className="text-center text-lg font-semibold text-blue-600">
+            LinkedIn
+          </p>
         </a>
 
         <a
@@ -203,8 +285,13 @@ export default function Home() {
           rel="noopener noreferrer"
           className="group flex flex-col items-center p-6 bg-white rounded-lg shadow-md transition-transform transform hover:scale-105"
         >
-          <FontAwesomeIcon icon={faGithub} className="text-4xl mb-4 text-gray-800" />
-          <p className="text-center text-lg font-semibold text-gray-800">GitHub</p>
+          <FontAwesomeIcon
+            icon={faGithub}
+            className="text-4xl mb-4 text-gray-800"
+          />
+          <p className="text-center text-lg font-semibold text-gray-800">
+            GitHub
+          </p>
         </a>
       </div>
     </main>
