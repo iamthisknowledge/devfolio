@@ -8,7 +8,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
         <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-          Hallo! Ich bin&nbsp;
+          Hi! I am&nbsp;
           <code className="font-mono font-bold">Rodrigo</code>,
         </p>
       </div>
@@ -26,16 +26,42 @@ export default function Home() {
 
       <div className="mt-2 mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-1 lg:text-left">
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        Ich bin ein erfahrener Web Content Manager mit einer Leidenschaft für die Erstellung und Optimierung von Webinhalten. In den letzten Jahren habe ich vielfältige Erfahrungen im Web Content Management gesammelt, insbesondere mit Content-Management-Systemen wie Drupal, ContentStack und grundlegenden Kenntnissen in TYPO3. Mein Fokus liegt auf der SEO-Optimierung und der Entwicklung von Content-Strategien, die sowohl suchmaschinenfreundlich als auch benutzerorientiert sind.
+        I am a professional who strives for a vision with integrity and loves to be led upwards in a working environment. Over the past four years, I have worked as a Web Content Manager Associate for a marketing agency in Germany—two years in the office and two years remotely as a contractor.
         </p>
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        Ich habe umfangreiche Erfahrung in der Kommunikation mit Kunden per E-Mail und setze ihre Anforderungen basierend auf bereitgestellten Materialien wie PDFs oder Figma-Designs effizient um. Als Webmaster für die ContentStack-Plattform habe ich Unternehmenswebsites verwaltet und Kundenwünsche stets professionell und freundlich umgesetzt.
+        During this time, I developed a deep interest and strong desire to learn everything related to SEO, which has led me to pivot my career toward entry-level SEO roles. Before this, I worked as a dishwasher for one year. My journey from dishwasher to sales specialist in customer service and then to Web Content Manager Associate showcases my eagerness to learn and grow.
         </p>
         <p className="m-0 max-w-full text-lg opacity-50 mb-4">
-        Die Zusammenarbeit und Kommunikation mit Kunden aus Deutschland, Österreich und der Schweiz hat meine Fähigkeit gestärkt, effektiv in internationalen Teams zu arbeiten. Ich spreche fließend Deutsch, Englisch auf nahezu muttersprachlichem Niveau und Portugiesisch als Muttersprache, was mir hilft, in multikulturellen Umgebungen erfolgreich zu sein.
+        My passion is delivering fresh and genuine content that provides users with direct solutions to their problems. When approaching content strategy, I believe in having a concrete goal—generating leads, driving sales, or increasing brand awareness. Understanding the audience is crucial: I delve into what they're searching for, their interests, and the problems they need to solve. This involves thorough keyword research using tools like Google Search Console and Bing Webmaster Tools to align our content with their search intent. Creating fresh, high-quality content is at the heart of what I do. I focus on producing unique, engaging material that stands out and resonates deeply with the audience. I ensure the content is factually accurate, well-written, and comprehensive, providing real value and directly addressing their needs.
         </p>
-        <p className="m-0 max-w-full text-lg opacity-50">
-        Ich werde für meine aufrichtige Leidenschaft geschätzt, qualitativ hochwertige Webinhalte zu erstellen und zu einer verbesserten digitalen Präsenz beizutragen. Lass uns gemeinsam an Ihrem nächsten Projekt arbeiten!
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+        For direct SEO optimization, I integrate keywords naturally within the content, avoiding keyword stuffing and utilizing internal linking and image optimization. I also ensure the website is mobile-friendly and craft effective titles and meta descriptions. Promoting content through email marketing, social media, and partnerships with industry websites helps reach a wider audience.        </p>
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+        Recognizing that SEO is an ongoing process, I continuously track performance through analytics and adjust strategies as needed. By implementing these strategies on a project focused on "Quick and Healthy Recipes for Working Families," we targeted long-tail keywords like "healthy 30-minute dinners" and "easy, quick vegetarian recipes." This led to a significant increase in organic traffic—a 35% boost over six months—and improved user engagement metrics.
+        </p>
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+        However, only some strategies work as expected. In one instance, while working indirectly for a pharmaceutical company, we launched a product similar to a competitor's. Despite our efforts, we needed to generate more leads initially because the competitor had launched first. To pivot, I recommended a complete analysis to understand what our audience was searching for and how we could differentiate our product by highlighting unique benefits the competitor didn't offer. We collaborated with reputable industry media outlets to build trust and credibility. After adjusting our approach, we saw a 15% increase in leads within two months. This experience taught me the importance of differentiation, understanding competitors, and building credibility through trusted channels.
+        </p>
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+        To increase efficiency and performance in content management, I integrate AI tools and automation into my workflow. I identify terms based on the target market and our solutions for keyword research. I use AI tools like ChatGPT to brainstorm and outline topics, then craft fresh, unique content in a native-level style. Afterward, I use Grammarly to refine the text, ensuring it's polished and error-free. This approach optimizes content for both SEO and readability, focusing on delivering quality material.
+        </p>
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+        I've also been involved in executing strategies for cross-purpose marketing and educational opportunities. In my previous role, I assisted in optimizing content and SEO strategies for webinars and educational materials scheduled for release. I focused on ensuring that valuable insights were accessible online to our target audience, primarily professionals seeking to enhance their knowledge and skills. By optimizing the content and promoting it through various channels, we aimed to raise brand awareness and make valuable information accessible to a broader audience. 
+        </p>
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+        Professional clients, including stakeholders, love to communicate with me because I am compassionate, can put myself in others' shoes, and deliver results. More than just working for them, I see it all as a beautifully crafted professional experience where trust between us is a top priority. Their desires, whether from PDF or Figma files, can be optimized to achieve perfect placement in search engines.
+        </p>
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+        My professional history reflects a person who wishes to have long-term professional partnerships as a contractor if you're looking for the same, hi to you!
+        </p>
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+        I write in American English and have a near-native level of comprehension, including cultural nuances.
+        </p>
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+        I can support marketing campaigns with engaging, expert content and best practices that align with Googlebot guidelines. I can integrate and track trending keywords in articles and content to keep organic SEO at the top. I excel at optimizing blog posts and crafting website copy. I'm proficient in supporting the execution of digital strategies and improving exposure.
+        </p>
+        <p className="m-0 max-w-full text-lg opacity-50 mb-4">
+        I am certified in Google Digital Marketing & E-commerce.
         </p>
       </div>
 
@@ -160,7 +186,7 @@ export default function Home() {
         </a>
       </div>
 
-      <div className="mt-20 mb-32 grid grid-cols-1 gap-8 text-center lg:grid-cols-3 lg:gap-16">
+      <div className="mt-20 mb-32 grid grid-cols-1 gap-8 text-center lg:grid-cols-2 lg:gap-16">
         <a
           href="https://www.linkedin.com/in/rodrigo-teixeira-b8b889302/"
           target="_blank"
@@ -169,16 +195,6 @@ export default function Home() {
         >
           <FontAwesomeIcon icon={faLinkedin} className="text-4xl mb-4 text-blue-600" />
           <p className="text-center text-lg font-semibold text-blue-600">LinkedIn</p>
-        </a>
-
-        <a
-          href="https://www.xing.com/profile/Rodrigo_Teixeira11"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="group flex flex-col items-center p-6 bg-white rounded-lg shadow-md transition-transform transform hover:scale-105"
-        >
-          <FontAwesomeIcon icon={faXing} className="text-4xl mb-4 text-green-600" />
-          <p className="text-center text-lg font-semibold text-green-600">XING</p>
         </a>
 
         <a
